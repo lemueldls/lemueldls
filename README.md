@@ -12,10 +12,9 @@
 ![Sass](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
-![Python](https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=python&logoColor=white)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=flat-square&logo=vue.js)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby)
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js)
 ![jQuery](https://img.shields.io/badge/-jQuery-0969AF?style=flat-square&logo=jquery)
@@ -32,4 +31,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemueldls&hide=TeX&layout=compact)
 
-<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lemueldls.lemueldls)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lemueldls.lemueldls)
