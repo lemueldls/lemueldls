@@ -26,10 +26,8 @@
 ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
 ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=fff)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=fff)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby)
 
-![ESlint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint)
 ![Vite](https://img.shields.io/badge/-Vite-1c1e21?style=flat-square&logo=vite)
 ![Webpack](https://img.shields.io/badge/-Webpack-2C3A42?style=flat-square&logo=webpack)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-04293A?style=flat-square&logo=tailwind-css)
