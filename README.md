@@ -1,39 +1,18 @@
-### Hello There 👋
+### 👋 Welcome
 
-[![Twitter](https://img.shields.io/badge/-@lemueldls-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/lemueldls)
-
-![Manjaro Linux](https://img.shields.io/badge/-Manjaro_Linux-2C3E50?style=flat-square&logo=manjaro)
+![Manjaro](https://img.shields.io/badge/-Manjaro_Linux-2C3E50?style=flat-square&logo=manjaro)
 ![KDE](https://img.shields.io/badge/-KDE-24282B?style=flat-square&logo=kde)
 ![Android](https://img.shields.io/badge/-Android-000?style=flat-square&logo=android)
 
 ## ⚡ Technologies
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
-![Firebase](https://img.shields.io/badge/-Firebase-2C384A?style=flat-square&logo=firebase)
+![Programs](https://skillicons.dev/icons?i=linux,git,vscode,firebase,nodejs,deno,aws)
 
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat-square&logo=node.js)
-![Deno](https://img.shields.io/badge/-Deno-222?style=flat-square&logo=deno)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
-![Godot Engine](https://img.shields.io/badge/-Godot-25282b?style=flat-square&logo=godot-engine)
+![Frameworks](https://skillicons.dev/icons?i=mongodb,windicss,tailwindcss,flutter,bootstrap,express,nuxt)
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-181818?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-181818?style=flat-square&logo=typescript)
-![Vue.js](https://img.shields.io/badge/-Vue.js-304455?style=flat-square&logo=vue.js)
-![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
-![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=fff)
+![Languages](https://skillicons.dev/icons?i=bash,html,css,sass,js,ts,vuejs,regex,md,svg,dart,rust,wasm,react&perline=7)
 
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint)
-![Vite](https://img.shields.io/badge/-Vite-1c1e21?style=flat-square&logo=vite)
-![Webpack](https://img.shields.io/badge/-Webpack-2C3A42?style=flat-square&logo=webpack)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-04293A?style=flat-square&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=fff)
-
-## 📊 Stats
+## 📊 Statistics
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lemueldls&count_private=true&show_icons=true&theme=gotham&include_all_commits=true)
 
