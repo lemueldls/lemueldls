@@ -2,7 +2,7 @@
 
 ![Programs](https://skillicons.dev/icons?i=linux,git,vscode,firebase,nodejs,deno,aws)
 
-![Frameworks](https://skillicons.dev/icons?i=mongodb,windicss,tailwindcss,flutter,bootstrap,express,nuxt)
+![Frameworks](https://skillicons.dev/icons?i=mongodb,windicss,tailwindcss,flutter,tauri,astro,nuxt)
 
 ![Languages](https://skillicons.dev/icons?i=bash,html,css,sass,js,ts,vuejs,regex,md,svg,dart,rust,wasm,react&perline=7)
 
