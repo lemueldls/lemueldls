@@ -1,9 +1,3 @@
-### 👋 Welcome
-
-![Manjaro](https://img.shields.io/badge/-Manjaro_Linux-2C3E50?style=flat-square&logo=manjaro)
-![KDE](https://img.shields.io/badge/-KDE-24282B?style=flat-square&logo=kde)
-![Android](https://img.shields.io/badge/-Android-000?style=flat-square&logo=android)
-
 ## ⚡ Technologies
 
 ![Programs](https://skillicons.dev/icons?i=linux,git,vscode,firebase,nodejs,deno,aws)
