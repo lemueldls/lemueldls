@@ -8,8 +8,8 @@
 
 ## 📊 Statistics
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lemueldls&count_private=true&show_icons=true&theme=gotham&include_all_commits=true&hide_rank=true)
+![Github Stats](https://lemueldls-stats.vercel.app/api?username=lemueldls&count_private=true&show_icons=true&theme=gotham&include_all_commits=true&hide_rank=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemueldls&theme=gotham&layout=pie&langs_count=20)
+![Top Langs](https://lemueldls-stats.vercel.app/api/top-langs/?username=lemueldls&theme=gotham&layout=pie&langs_count=20&size_weight=0.5&count_weight=0.5)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lemueldls.lemueldls)
