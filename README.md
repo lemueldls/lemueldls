@@ -8,7 +8,7 @@
 
 ## 📊 Statistics
 
-![Github Stats](https://lemueldls-stats.vercel.app/api?username=lemueldls&count_private=true&show_icons=true&theme=gotham&include_all_commits=true&hide_rank=true)
+![Github Stats](https://lemueldls-stats.vercel.app/api?username=lemueldls&show_icons=true&theme=gotham&include_all_commits=true&hide_rank=true)
 
 ![Top Langs](https://lemueldls-stats.vercel.app/api/top-langs/?username=lemueldls&theme=gotham&layout=pie&langs_count=20&size_weight=0.5&count_weight=0.5)
 
