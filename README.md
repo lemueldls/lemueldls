@@ -4,7 +4,7 @@
 
 ![Frameworks](https://skillicons.dev/icons?i=mongodb,astro,tailwindcss,flutter,electron,tauri,nuxt,remix)
 
-![Languages](https://skillicons.dev/icons?i=bash,html,css,sass,js,ts,vuejs,react,regex,md,svg,python,dart,rust,wasm,haskell&perline=8)
+![Languages](https://skillicons.dev/icons?i=bash,html,css,sass,js,ts,vuejs,react,regex,md,svg,dart,python,rust,wasm,haskell&perline=8)
 
 <!-- ## 📊 Statistics -->
 
