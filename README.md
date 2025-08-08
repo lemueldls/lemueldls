@@ -1,4 +1,4 @@
-<!-- ## ⚡ Technologies -->
+## ⚡ Technologies
 
 ![Programs](https://skillicons.dev/icons?i=linux,arch,nix,vscode,supabase,nodejs,deno,cloudflare)
 
@@ -6,7 +6,7 @@
 
 ![Languages](https://skillicons.dev/icons?i=bash,html,css,sass,js,ts,vuejs,react,regex,md,svg,dart,python,rust,wasm,haskell&perline=8)
 
-<!-- ## 📊 Statistics -->
+## 📊 Statistics
 
 ![GitHub Metrics](/github-metrics.svg)
 
